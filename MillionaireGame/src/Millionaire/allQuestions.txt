@@ -1,0 +1,32 @@
+# Who Wants To Be A Millionaire - Question Bank
+
+1_What is the chemical symbol for gold?_Ag_Au_Fe_Cu_2
+2_What is the process by which plants make their own food?_Respiration_Photosynthesis_Transpiration_Germination_2
+3_What is the chemical formula for water?_H2O_CO2_O2_H2_1
+4_Who painted the Mona Lisa?_Van Gogh_Da Vinci_Picasso_Rembrandt_2
+5_Which artist painted 'The Starry Night'?_Pablo Picasso_Vincent van Gogh_Claude Monet_Salvador Dali_2
+6_Who painted 'The Last Supper'?_Michelangelo_Leonardo da Vinci_Raphael_Caravaggio_2
+7_Which country won the FIFA World Cup in 2022?_Brazil_Argentina_France_Germany_2
+8_In which sport is the term 'hat-trick' commonly used?_Cricket_Soccer_Basketball_Tennis_2
+9_Which country hosted the 2020 Summer Olympics?_Japan_China_Brazil_Australia_1
+10_Who directed the movie 'Titanic'?_Steven Spielberg_James Cameron_Christopher Nolan_Quentin Tarantino_2
+11_Which actor played the role of Iron Man in the Marvel Cinematic Universe?_Chris Evans_Chris Hemsworth_Robert Downey Jr_Mark Ruffalo_3
+12_Which movie won the Best Picture Oscar in 2023?_Everything Everywhere All at Once_Top Gun: Maverick_Avatar: The Way of Water_The Fabelmans_1
+13_What is the square root of 144?_10_11_12_13_3
+14_What is 15% of 200?_20_25_30_35_3
+15_If 2x + 5 = 21, what is the value of x?_5_6_7_8_4
+16_What is the capital of Canada?_Toronto_Vancouver_Ottawa_Montreal_3
+17_Which country has the largest population in the world?_India_China_USA_Indonesia_1
+18_What is the official language of Brazil?_Spanish_Portuguese_French_English_2
+19_What is the largest planet in our solar system?_Saturn_Mars_Jupiter_Neptune_3
+20_Which element has the chemical symbol 'O'?_Oxygen_Osmium_Orbit_Ozone_1
+21_What does the 'if' statement do in programming?_Repeats code_Executes code conditionally_Defines a function_Imports a library_2
+22_Which programming language uses 'print()' for output?_Java_Python_C++_JavaScript_2
+23_What is the largest organ in the human body?_Heart_Brain_Liver_Skin_4
+24_How many bones are in the adult human body?_206_300_150_400_1
+25_Which animal is known as the 'King of the Jungle'?_Tiger_Lion_Elephant_Giraffe_2
+26_What is the fastest land animal?_Cheetah_Lion_Leopard_Tiger_1
+27_What is the capital of France?_London_Berlin_Paris_Madrid_3
+28_Which planet is known as the Red Planet?_Venus_Mars_Jupiter_Saturn_2
+29_What is the process called when water turns into vapor?_Condensation_Evaporation_Precipitation_Transpiration_2
+30_Which of these is not a renewable energy source?_Solar_Wind_Coal_Hydro_3
